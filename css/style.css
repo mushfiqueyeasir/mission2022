@@ -1,0 +1,162 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.flexible{
+    display: flex;
+}
+h1{
+    color: #333333;
+    font-size: 26px;
+    font-weight: 700;
+}
+h4{
+    color: #333333;
+    font-size: 46px;
+    font-weight: 700;
+}
+
+
+.moto{
+    font-family: 'Yeseva One', cursive;
+    color: #333333;
+    font-size: 70px;
+    border-left: 5px solid #FF5959;
+    border-radius: 5px;
+    padding-left: 2%;      
+    font-weight: 400;
+}
+p{
+    font-size: 22px;    
+    font-weight: 400;
+    margin-bottom: 5%;
+    color: #3E3E3E;
+
+}
+.first-paragraph{
+    width: 600px;   
+}
+.second-paragraph{
+    padding-right: 15%;  
+}
+.orange{
+    color: #FFAD5A;
+}
+.redd{
+    color: #FF5959;
+}
+.half-width{
+    width: 50%;
+    
+}
+.left{
+    padding-left: 10%;
+}
+
+.right{
+    padding: 0%;
+}
+
+
+.button{
+    margin-top: 10% ;
+    text-decoration: none;
+    background-color: #FF5959 ;
+    color: white;
+    font-size: 20px;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.scroll{
+    margin-top: 5%;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: #13103A;
+    font-weight: 700;
+}
+
+.thirdPart-left{
+    width: 40%;
+    margin-top: 5%;
+    padding-left: 10%;
+  
+}
+.thirdPart-right{
+    margin-top: 5%;
+    width: 60%;
+}
+
+.third{
+    background-image: url("/images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position:bottom;
+    background-position: left ;
+   background-position-x: 50px;
+}
+.fourthPart-left{
+    width: 60%;
+    margin-top: 5%;
+    padding-left: 10%;
+  
+}
+.fourthPart-right{
+    margin-top: 5%;
+    width: 40%;
+}
+
+.fourth{
+    background-image: url("/images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position-x: 1550px;
+    background-position-y: 400px;
+    padding-bottom: 5%;
+}
+
+.box{
+    width: 33%;
+    margin-left: 5%;
+    padding: 2%;  
+    border-radius: 10%;
+}
+.box img{
+    width: 60%;
+    height: auto;
+}
+.gray{
+    background-color: #EDF5F6;  
+    margin-left: 10%;
+}
+.red{
+    background-color: #FFEEEE; 
+}
+.yellow{
+    background-color: #FFF4D6;  
+    margin-right: 10%;
+}
+h3{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+}
+
+footer{
+    margin-top: 5%;
+    background-color: #0B0D17;
+    text-align: center;
+    color: white;  
+    padding-top: 5px;
+    padding-bottom: 1px;
+}
+.lastLine{
+    font-family: 'Manrope', sans-serif;
+    color: white;
+    font-size: 16px;
+}
+
