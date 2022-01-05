@@ -93,7 +93,7 @@ h2{
 }
 
 .third{
-    background-image: url("/images/shapes/shape-1.png");
+    background-image: url("../images/shapes/shape-1.png");
     background-repeat: no-repeat;
     background-size: 300px 300px;
     background-position:bottom;
@@ -112,7 +112,7 @@ h2{
 }
 
 .fourth{
-    background-image: url("/images/shapes/shape-1.png");
+    background-image: url("../images/shapes/shape-1.png");
     background-repeat: no-repeat;
     background-size: 300px 300px;
     background-position-x: 1550px;
